@@ -1,0 +1,2 @@
+# Task25-ExplicitWait-in-imdb-url-with-ads-to-handle-in-javascript-and-search-details
+Using Python selenium,explicit wait,expected conditions and chrome webdriver kindly do the following task mentioned below 1.) go to the https://www.imdb.com/search/name/ 2.)fill the data given in the input boxes,select boxes and drop down menu on the web page and do a search 3.)do bot use sleep() method fot the task.
